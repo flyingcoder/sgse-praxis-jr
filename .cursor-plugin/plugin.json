@@ -1,0 +1,20 @@
+{
+  "name": "praxisjr",
+  "displayName": "PraxisJr",
+  "version": "0.1.0",
+  "description": "Specification-Governed Software Engineering. Agents act as decision partners: requirements, options, architecture, and contracts before logic; constructive disagreement; traceable decisions.",
+  "author": {
+    "name": "flyingcoder"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sgse",
+    "specification",
+    "architecture",
+    "requirements",
+    "decisions",
+    "scaffolding",
+    "governance"
+  ],
+  "logo": "assets/logo.svg"
+}
